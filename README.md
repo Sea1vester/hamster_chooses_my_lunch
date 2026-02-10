@@ -1,7 +1,7 @@
 # hamster_chooses_my_lunch
 
 🐹 HamsterChoosesMyLunch (NUS Foodie)
-Winner/Participant at Hack&Roll 2026
+Participant at Hack&Roll 2026
 
 "Reducing choice paralysis and dining congestion for the NUS community, one 'hamster-spin' at a time."
 
